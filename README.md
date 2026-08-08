@@ -50,12 +50,12 @@ A complete Quran-memorization tracking app for **Dar Al-Quran Kareem wal-Sunnah 
 
 | Project | Description | Stack |
 |---|---|---|
-| [Vue.js + Laravel Admin Dashboard](#) | CRUD admin panel built to demonstrate this exact stack | Vue.js 3, Laravel, MySQL |
+| [Vue.js + Laravel Admin Dashboard](./projects/vue-laravel-dashboard.md) | CRUD admin panel built to demonstrate this exact stack | Vue.js 3, Laravel, MySQL |
 | [Nahw al-Jinan](./projects/nahw-al-jinan.md) | Quran-memorization tracking system for Dar Al-Quran Association | Flutter, GetX, Supabase |
-| [Jisr (\"Bridge\")](./projects/jisr.md) | Real-time Arabic↔English speech-to-speech translation app | Flutter, Whisper, Agora, Azure |
+| [Jisr ("Bridge")](./projects/jisr.md) | Real-time Arabic↔English speech-to-speech translation app | Flutter, Whisper, Agora, Azure |
 | [AniVerse / DramaTok](./projects/aniverse-dramatok.md) | Anime/drama streaming app with custom video-hosting backend | Java, ExoPlayer/Media3, Supabase, Cloudflare R2 |
 | [Gym Points & Subscriptions App](./projects/gym-app.md) | Published points/subscriptions app on Google Play | Java, Google Play Billing, AdMob |
-| [School Management System](./projects/school-management-system.md) *(in progress)* | Windows desktop app with a 48-table database | Flutter, GetX, Drift/SQLite |
+| School Management System 🚧 *(in progress)* | Windows desktop app with a 48-table database — *README coming soon* | Flutter, GetX, Drift/SQLite |
 
 > 📌 Each project links to a detailed README with features, architecture, and my specific role.
 
