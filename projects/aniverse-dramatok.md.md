@@ -80,10 +80,6 @@ _Vertical swipe feed for short-form episode clips, styled after TikTok/Reels-sty
 ![Series Details](screenshots/series_details.png)
 _Series overview page with synopsis, episode list, and entry point into the full player._
 
-### Series Player
-![Series Player](screenshots/series_player.png)
-_Full episode-by-episode video player with the points-based unlock/reward flow for locked episodes._
-
 ### Library
 ![Library](screenshots/library.png)
 _Favorites and continue-watching history, synced from local watch history._
@@ -91,14 +87,6 @@ _Favorites and continue-watching history, synced from local watch history._
 ### Store — Point Packs & Subscriptions
 ![Store](screenshots/store.png)
 _In-app store with point packs, weekly/monthly/VIP subscription plans, achievements, and daily tasks._
-
-### Rewarded Ad Flow
-![Rewarded Ad Flow](screenshots/rewarded_ad.png)
-_Reward dialog shown when a user chooses to watch an ad in exchange for points._
-
-### Profile
-![Profile](screenshots/profile.png)
-_User profile with level, XP progress, and current point balance._
 
 ## Technical Highlights & Challenges Solved
 

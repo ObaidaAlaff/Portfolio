@@ -63,14 +63,6 @@ Per-table storage stats — total size, data size, index size, and estimated row
 ![Storage and Files](screenshots/storage-files.png)
 Bucket overview plus an orphaned-file scanner that finds media not referenced by any message or announcement, ready for multi-select cleanup.
 
-### Export
-![Export](screenshots/export.png)
-Full-table CSV export with an optional date-range filter.
-
-### Delete by Date
-![Delete by Date](screenshots/delete-by-date.png)
-Guarded bulk delete for a whitelisted set of renewable tables — requires typing the exact row count to confirm, with an optional backup-to-CSV step first.
-
 ## Technical Highlights & Challenges
 
 - **Rebuilt around reactivity, not just re-skinned** — the original version manually rebuilt DOM subtrees (`innerHTML = ''` then re-append) after every data change. The Vue rewrite moves all state into a single reactive `data()` object and lets `computed` properties (like the selected-files list, its total size, or which table/date-column pairing is active) recalculate automatically — no more manually calling a `render...()` function after every state change.

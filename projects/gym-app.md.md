@@ -75,10 +75,6 @@ I designed and built this application end-to-end as a solo project:
 ![Income](screenshots/income.png)
 *Full income list with category/account/date filters; desktop shows a DataTable, mobile shows a card list.*
 
-### Add / Edit Income
-![Add Income Dialog](screenshots/income_dialog.png)
-*Dialog for adding or editing an income entry — amount, category, date, account, linked booking, and notes.*
-
 ### Expenses
 ![Expenses](screenshots/expenses.png)
 *Categorized expense list with receipt image support; same responsive layout as the income screen.*
@@ -87,25 +83,9 @@ I designed and built this application end-to-end as a solo project:
 ![Accounts](screenshots/accounts.png)
 *Account balances calculated automatically from initial balance plus all linked income and expense entries.*
 
-### Account Transactions
-![Account Transactions](screenshots/account_transactions.png)
-*Full transaction history per account with colored income/expense indicators.*
 
-### Tasks
-![Tasks](screenshots/tasks.png)
-*Task list with segmented filter (All / Pending / Completed) and due dates.*
-
-### Reports
-![Reports](screenshots/reports.png)
-*Yearly bar chart comparing income and expenses month by month, with a 5-card summary at the top.*
-
-### Export
 ![Export](screenshots/export.png)
 *Filter and export any data range as PDF or CSV; both formats supported on Desktop and Android.*
-
-### Admin Panel
-![Admin Panel](screenshots/admin.png)
-*Settings for hall name, login credentials, and full database backup/restore.*
 
 ---
 

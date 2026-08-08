@@ -48,26 +48,12 @@ It's built for people who work, study, or stay in touch across a language gap. B
 | ![Incoming call](screenshots/incoming-call.png) | ![Live call](screenshots/live-call.png) |
 | Full-screen ring with expanding ripple and accept/reject actions | Real-time captions translated in both directions |
 
-### Translation Studio
-
-| Processing | Result |
-|:---:|:---:|
-| ![Studio processing](screenshots/studio-processing.png) | ![Studio result](screenshots/studio-result.png) |
-| Staged timeline showing each pipeline step and its progress | Finished file with translated text preview and save-to-device |
-
 ### Practice & Account
 
 | Practice session | Settings | Subscription |
 |:---:|:---:|:---:|
 | ![Practice](screenshots/practice-session.png) | ![Settings](screenshots/settings.png) | ![Subscription](screenshots/subscription.png) |
 | Speaking exercise with reference audio and recording control | Grouped preferences for translation, notifications, and theme | Plan comparison with store-provided pricing |
-
-### Onboarding & Theme
-
-| Onboarding | Sign up | Dark mode |
-|:---:|:---:|:---:|
-| ![Onboarding](screenshots/onboarding.png) | ![Sign up](screenshots/sign-up.png) | ![Dark mode](screenshots/dark-mode.png) |
-| Three-slide introduction to the core features | Registration with live password-strength meter | A separately designed dark palette, not an inversion |
 
 ## Tech Stack
 

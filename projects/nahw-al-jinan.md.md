@@ -62,10 +62,6 @@ The teacher's landing screen — halaqah overview with follow-up and assessment 
 ![Daily Report](screenshots/daily-report.png)
 A student's daily memorization report — portion recited, review range, and rating stars.
 
-### Student Calendar
-![Student Calendar](screenshots/student-calendar.png)
-Monthly calendar view letting a student browse their full report history by date.
-
 ### Assessments
 ![Assessments](screenshots/assessments.png)
 A teacher's assessment log for their halaqah — scores and evaluation notes per student.
@@ -78,13 +74,6 @@ Meeting and follow-up records tracked per halaqah.
 ![Communication](screenshots/communication.png)
 Group and private chat list, organized by halaqah, with support for calls and reactions.
 
-### Quizzes & Exams
-![Quizzes and Exams](screenshots/quizzes-exams.png)
-A timed exam session with auto-scored results on submission.
-
-### Adhkar Reminder
-![Adhkar Reminder](screenshots/adhkar-reminder.png)
-An ambient dhikr popup — randomized position, glowing card, auto-dismisses after a few seconds.
 
 ### Admin Dashboard (Internal Tool)
 ![Admin Dashboard](screenshots/admin-dashboard.png)
