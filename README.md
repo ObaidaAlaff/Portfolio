@@ -9,7 +9,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 
-📍 Gaza, Palestine · 📧 obaidamalaff@gmail.com · 🔗 [LinkedIn](#) · 🌐 [Portfolio site](#)
+📍 Gaza, Palestine · 📧 obaidamalaff@gmail.com
 
 ---
 
@@ -64,6 +64,4 @@ A complete Quran-memorization tracking app for **Dar Al-Quran Kareem wal-Sunnah 
 ## 📫 Get in Touch
 
 - Email: **obaidamalaff@gmail.com**
-- LinkedIn: *(add your link)*
-- Portfolio site: *(add your link)*
 
